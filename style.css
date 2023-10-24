@@ -24,7 +24,7 @@ body {
     display: flex;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(media/amazon_logo.png);
     background-size: cover;
     width: 110px;
     height: 50px;
@@ -116,7 +116,7 @@ body {
     justify-content: center;
 }
 .lang-icon{
-    background-image: url(America_flag.png);
+    background-image: url(media/America_flag.png);
     background-size: cover;
     width: 20px;
     height: 18px;
@@ -356,6 +356,8 @@ body {
     justify-content: center;
 }
 
+
+
 .slider-section {
     margin: 20px;
     padding: 20px;
@@ -388,11 +390,7 @@ body {
     max-width: 270px;
     max-height: 200px;
 }
-/*------------------------------PRODUCTS-----------------------------*/
 
-
-
-/*------------------------------FOOTER-----------------------------*/
 footer{
     margin-top: 15px;
 }
@@ -435,7 +433,7 @@ ul a:hover{
     align-items: center;
 }
 .logo{
-    background-image: url("amazon_logo.png");  
+    background-image: url("media/amazon_logo.png");  
     height: 50px;
     background-size: cover;
     height: 50px;
@@ -454,6 +452,3 @@ padding-top: 20px;
 .copyright{
     padding-top: 5px;
 }
-/*------------------------------FOOTER-----------------------------*/
-
-
